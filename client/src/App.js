@@ -1,39 +1,4 @@
-// import React from 'react'
-// import HomeScreen from './Screens/HomeScreen'
-// import AboutUs from './Screens/AboutUs'
-// import NotFound from './Screens/NotFound'
-// import { Route, Routes } from 'react-router-dom'
 
-// function App() {
-//   return (
-//     <Routes>
-//       <Route path='/' element={<HomeScreen />} />
-//       <Route path='/about-us' element={<AboutUs />} />
-//       <Route path='*' element={<NotFound />} />
-//     </Routes>
-//     // <div className='h-header bg-main w-full'>
-//     //   <h1 className="text-h1 text-star font-bold underline">
-//     //     Hello world!
-//     //   </h1>
-//     //   <p className='text-white'>Lorem ipsum dolor sit amet.</p>
-//     // </div>
-//   )
-// }
-
-// export default App
-
-// ********* Netflixo Website is created by Zpunet ******************
-// ********* If you get an error please contact us ******
-// ******** Email:info@zpunet.com *********
-// ********* Website:www.zpunet.com *********
-// ********* Phone:+255 65 535 2744 *********
-// ********* Youtub Channel: https://www.youtube.com/channel/UCOYwYO-LEsrjqBs6xXSfq1w *********
-
-// ******** Support my work with *********
-// ********* https://www.patreon.com/zpunet *********
-// ********* https://www.buymeacoffee.com/zpunet *********
-
-// ********* This is the main component of the website *********
 import Aos from 'aos';
 import React, { useEffect } from 'react';
 import { Route, Routes } from 'react-router-dom';
